@@ -86,3 +86,11 @@ AI tools (ChatGPT/GPT-5) were used in the following contexts:
 - **Database Schema:** Helped generate SQL for profiles, polls, options, and votes, with Row-Level Security (RLS) policies.
 - **UI Components:** Assisted in building reusable and styled components for authentication and dashboard pages.
 - **Documentation:** Helped in writing this README and generating commit messages.
+
+---
+
+- All AI-generated workflow evidence (e.g., endpoint client generation, API-aware AI prompts) is stored under:
+
+```swift
+public/docs/ai-workflows/
+```
